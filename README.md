@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sachin Jadhav
-- 👀 I’m a Web Developer
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently learning MERN Stack at @crio.do
+- 🥰 I really love to build web realated stuff
 
 
 <!---
